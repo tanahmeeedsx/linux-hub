@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐧 Linux Mastery Hub
+# 🐧 Linux Hub
 
 *A comprehensive hands-on laboratory and central repository dedicated to mastering Linux architecture, system administration, core fundamentals, infrastructure automation, and advanced command-line troubleshooting.*
 
